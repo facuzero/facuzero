@@ -3,18 +3,15 @@
 
 ### Desarrollador Full Stack | Amante del Open Source | Entusiasta de la Tecnología
 
-![Banner personalizado](https://tuimagen.com/banner.png)
+![Banner personalizado](./github-header-image.png)
 
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador apasionado con experiencia en **NestJS**, **TypeScript**, **Ionic**, y **PostgreSQL**. Me encanta crear soluciones innovadoras y colaborar en proyectos de código abierto. Actualmente, estoy trabajando en un proyecto emocionante relacionado con **geolocalización en tiempo real** y **aplicaciones móviles**.
+Soy un desarrollador apasionado con experiencia en **NestJS**, **TypeScript**, y **PostgreSQL**. Me encanta crear soluciones innovadoras y colaborar en proyectos de código abierto.
 
-- 🌱 Actualmente aprendiendo: **Microservicios y Kubernetes**
+- 🌱 Actualmente aprendiendo: **NextJs**
 - 💼 Trabajo en proyectos freelance
-//- 🌍 Me gusta contribuir a la comunidad, revisa mis [contribuciones](https://github.com/tu-usuario)
-- 🎮 Me encanta jugar a **Terraria** y otros juegos indie
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -22,8 +19,7 @@ Soy un desarrollador apasionado con experiencia en **NestJS**, **TypeScript**, *
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=flat)
-![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?logo=capacitor&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=yellow&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
@@ -37,19 +33,14 @@ Soy un desarrollador apasionado con experiencia en **NestJS**, **TypeScript**, *
 
 ### 📫 Contáctame
 
-- **Correo:** tuemail@example.com
-- **LinkedIn:** [LinkedIn](https://linkedin.com/in/tu-usuario)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
-
+- **Correo:** facuzero_95@hotmail.com
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/facundo-diaz1995/)
 ---
 
 ### ✨ Proyectos Destacados
 
-- **[Proyecto 1: Aplicación de Geolocalización en Tiempo Real](https://github.com/tu-usuario/proyecto1)**  
-  Una aplicación que rastrea la ubicación en tiempo real utilizando **Ionic** y **Capacitor**.
-
-- **[Proyecto 2: API para Ecommerce](https://github.com/tu-usuario/proyecto2)**  
-  Una API robusta desarrollada con **NestJS** y **PostgreSQL** para gestionar un ecommerce completo.
+- **[Proyecto 1: Aplicación de Veterinarios](https://near-vet-front-git-main-teamhvets-projects.vercel.app/)**  
+  Una aplicación para agregar mascotas, agendar turnos con veterinarios y ver historial medico de las masctoas utilizando **NextJS** cmoo frontend y **NestJS** como backend
 
 ---
 
@@ -60,7 +51,7 @@ _"El código es como el humor. Cuando tienes que explicarlo, es malo."_ - Cory H
 
 ### 🎯 Mis Metas para 2024
 - Mejorar mis habilidades en **Desarrollo Backend** y **Microservicios**.
-- Contribuir más a proyectos de **Código Abierto**.
+- Contribuir a proyectos de **Código Abierto**.
 - Publicar mi primer **Paquete NPM**.
 
 ---
