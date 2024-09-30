@@ -15,7 +15,7 @@ Soy un desarrollador apasionado con experiencia en **React**, **NestJS**, **Type
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-
+![React](https://img.shields.io/badge/React-grey?logo=react)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
