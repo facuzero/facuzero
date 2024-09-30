@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador apasionado con experiencia en **NestJS**, **TypeScript**, y **PostgreSQL**. Me encanta crear soluciones innovadoras y colaborar en proyectos de código abierto.
+Soy un desarrollador apasionado con experiencia en **React**, **NestJS**, **TypeScript**, y **PostgreSQL**. Me encanta crear soluciones innovadoras y colaborar en proyectos de código abierto.
 
 - 🌱 Actualmente aprendiendo: **NextJs**
 - 💼 Trabajo en proyectos freelance
