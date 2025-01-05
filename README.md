@@ -1,5 +1,5 @@
 
-# ¡Hola! 👋 Soy [Facundo Diaz]
+# ¡Hola! 👋 Soy Facundo Diaz
 
 ### Desarrollador Full Stack | Amante del Open Source | Entusiasta de la Tecnología
 
@@ -49,11 +49,9 @@ _"El código es como el humor. Cuando tienes que explicarlo, es malo."_ - Cory H
 
 ---
 
-### 🎯 Mis Metas para 2024
+### 🎯 Mis Metas para 2025
 - Mejorar mis habilidades en **Desarrollo Backend** y **Microservicios**.
 - Contribuir a proyectos de **Código Abierto**.
-- Publicar mi primer **Paquete NPM**.
-
 ---
 
 ![Visitas a mi perfil](https://komarev.com/ghpvc/?username=tu-usuario&color=blue&style=flat)
