@@ -9,6 +9,7 @@
 
 ### 🚀 Sobre mí
 https://facuzero.github.io/portfolio/es/
+
 Soy un desarrollador apasionado con experiencia en **React**, **NestJS**, **TypeScript**, y **PostgreSQL**. Me encanta crear soluciones innovadoras y colaborar en proyectos de código abierto.
 
 - 🌱 Actualmente aprendiendo: **NextJs**
